@@ -15,14 +15,14 @@ It has been created to trigger the onChange of the field in each key press.
 
 ## Example of configuration
 
-Form configuration
-![](examples/configuration.png)
+
+![Form configuration](examples/configuration.png)
 
 
-On Change configuration
-![](examples/onchange.png)
+![On Change configuration](examples/onchange.png)
+
+![On Change Code](examples/onchange_code.png)
 
 
-Example working
-![](examples/example.gif)
+![Example working](examples/example.gif)
 

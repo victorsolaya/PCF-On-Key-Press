@@ -33,3 +33,7 @@ It has been created to trigger the onChange of the field in each key press.
 ## Which fields are supported
 
 At the moment are supported all of the fields allowed by the Power Component Framework [here to the documentation](https://docs.microsoft.com/en-us/powerapps/developer/component-framework/manifest-schema-reference/type#value-element)
+
+## Credits
+
+Credits to [Ivan Ficko](https://github.com/DynamicsNinja) since the css code for the text field was taken from his project [Copy to Clipboard](https://github.com/DynamicsNinja/PCF-Clipboard-Control)

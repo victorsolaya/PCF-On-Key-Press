@@ -8,6 +8,9 @@ It has been created to trigger the onChange of the field in each key press.
 
 ## Download
 
+[DOWNLOAD LATEST RELEASE](https://github.com/victorsolaya/PCF-On-Key-Press/releases/latest)
+
+
 ## How to configure
 
 1. Add the control to the field that needs the onChange

@@ -29,3 +29,7 @@ It has been created to trigger the onChange of the field in each key press.
 
 ![Example working](examples/example.gif)
 
+
+## Which fields are supported
+
+At the moment are supported all of the fields allowed by the Power Component Framework [here to the documentation](https://docs.microsoft.com/en-us/powerapps/developer/component-framework/manifest-schema-reference/type#value-element)
